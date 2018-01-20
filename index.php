@@ -1,5 +1,5 @@
 <?php 
-//DB定義
+//DB定義　GITtest
 const DB = "";
 const DB_ID = "root";
 const DB_PW = "";
